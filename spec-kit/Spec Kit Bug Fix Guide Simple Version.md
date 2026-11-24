@@ -233,6 +233,13 @@ dms_ui/
 └── src/                               ← your actual code (fix applied here)
 ```
 
+![Assessment screenshot](ref_imgs/Screenshot-assessment.png)
+
+![Fix screenshot](ref_imgs/Screenshot-fix.png)
+
+![Test screenshot](ref_imgs/Screenshot-test.png)
+
+
 ## 5. Git — what to push, what to skip
 
 ### Push these
